@@ -1,0 +1,19 @@
+{
+  "name": "Girl Scout Cookies Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_girl_scout_cookies_nug"
+  },
+  "essence": "mystical_herbs:fresh_girl_scout_cookies_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "FFCCCC",
+    "essence": "FFFFFF",
+    "seeds": "FFCCCC"
+  },
+  "glint": false,
+  "enabled": true
+}

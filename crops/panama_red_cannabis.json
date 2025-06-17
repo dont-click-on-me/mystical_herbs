@@ -1,0 +1,19 @@
+{
+  "name": "Panama Red Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_panama_red_nug"
+  },
+  "essence": "mystical_herbs:fresh_panama_red_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "FF0000",
+    "essence": "FFFFFF",
+    "seeds": "FF0000"
+  },
+  "glint": false,
+  "enabled": true
+}

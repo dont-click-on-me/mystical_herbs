@@ -1,0 +1,19 @@
+{
+  "name": "Black Mamba Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_black_mamba_nug"
+  },
+  "essence": "mystical_herbs:fresh_black_mamba_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "070D0D",
+    "essence": "FFFFFF",
+    "seeds": "070D0D"
+  },
+  "glint": false,
+  "enabled": true
+}

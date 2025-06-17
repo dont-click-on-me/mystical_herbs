@@ -1,0 +1,19 @@
+{
+  "name": "White Widow Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_white_widow_nug"
+  },
+  "essence": "mystical_herbs:fresh_white_widow_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "FFFFFF",
+    "essence": "FFFFFF",
+    "seeds": "FFFFFF"
+  },
+  "glint": false,
+  "enabled": true
+}

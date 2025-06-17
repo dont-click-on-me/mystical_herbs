@@ -1,0 +1,19 @@
+{
+  "name": "Purple Haze Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_purple_haze_nug"
+  },
+  "essence": "mystical_herbs:fresh_purple_haze_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "990099",
+    "essence": "FFFFFF",
+    "seeds": "990099"
+  },
+  "glint": false,
+  "enabled": true
+}

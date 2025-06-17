@@ -1,0 +1,19 @@
+{
+  "name": "Lemon Haze Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_lemon_haze_nug"
+  },
+  "essence": "mystical_herbs:fresh_lemon_haze_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "FFCC00",
+    "essence": "FFFFFF",
+    "seeds": "FFCC00"
+  },
+  "glint": false,
+  "enabled": true
+}

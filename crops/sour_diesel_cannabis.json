@@ -1,0 +1,19 @@
+{
+  "name": "Sour Diesel Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_sour_diesel_nug"
+  },
+  "essence": "mystical_herbs:fresh_sour_diesel_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "FFA347",
+    "essence": "FFFFFF",
+    "seeds": "FFA347"
+  },
+  "glint": false,
+  "enabled": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Northern Lights Cannabis",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:1",
+  "ingredient": {
+    "item": "mystical_herbs:fresh_northern_lights_nug"
+  },
+  "essence": "mystical_herbs:fresh_northern_lights_nug",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust"
+  },
+  "colors": {
+    "flower": "216457",
+    "essence": "FFFFFF",
+    "seeds": "216457"
+  },
+  "glint": false,
+  "enabled": true
+}
